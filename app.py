@@ -1,7 +1,6 @@
-
 def myFun():
-    	print("teste")
+    print("teste")
 
 
 def myFun2():
-    		print("teste")
+    print("teste")
